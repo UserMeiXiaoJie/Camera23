@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-media-compat:28.0.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../AndroidStudiogGradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d97d9ab77239c38093fdd66f10cafcbe/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../AndroidStudiogGradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d97d9ab77239c38093fdd66f10cafcbe/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../AndroidStudiogGradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d97d9ab77239c38093fdd66f10cafcbe/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../AndroidStudiogGradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/d97d9ab77239c38093fdd66f10cafcbe/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
